@@ -1,0 +1,9 @@
+.pink {
+	color: #FFC0CB;
+}
+
+.pink-border {
+	border-style: solid;
+	border-width: 25px;
+  	border-color: #FFC0CB;
+}
